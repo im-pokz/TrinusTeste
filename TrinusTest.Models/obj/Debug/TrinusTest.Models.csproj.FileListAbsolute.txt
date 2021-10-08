@@ -1,0 +1,6 @@
+C:\Users\pietro.roque\source\repos\TrinusTest.Models\bin\Debug\TrinusTest.Models.dll
+C:\Users\pietro.roque\source\repos\TrinusTest.Models\bin\Debug\TrinusTest.Models.pdb
+C:\Users\pietro.roque\source\repos\TrinusTest.Models\obj\Debug\TrinusTest.Models.csproj.AssemblyReference.cache
+C:\Users\pietro.roque\source\repos\TrinusTest.Models\obj\Debug\TrinusTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\pietro.roque\source\repos\TrinusTest.Models\obj\Debug\TrinusTest.Models.dll
+C:\Users\pietro.roque\source\repos\TrinusTest.Models\obj\Debug\TrinusTest.Models.pdb
